@@ -1,4 +1,22 @@
-<center>
-<h1> Iyappan</h1>
-</center>
-<hr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iyappan</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+        hr {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1> Iyappan </h1>
+    </center>
+    <hr>
+</body>
+</html>
